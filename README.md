@@ -53,7 +53,7 @@ Follow the [Getting Started guide](https://reactnative.dev/docs/environment-setu
 
 ### Using a Framework
 
-We believe that the best way to experience React Native is through a Framework, a toolbox with all the necessary APIs to let you build production ready apps. [Expo](https://docs.expo.dev/get-started/set-up-your-environment/) is a production-grade React Native Framework, with file-based routing, a standard library of native modules, and much more.
+We believe that the best way to experience React Native is through a Framework, a toolbox with all the necessary APIs to let you build production-ready apps. [Expo](https://docs.expo.dev/get-started/set-up-your-environment/) is a production-grade React Native Framework, with file-based routing, a standard library of native modules, and much more.
 
 To create a new Expo project, run the following in your terminal:
 
